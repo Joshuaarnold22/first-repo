@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-* Joshua Arnold
-=======
 * Igor Eydman
 * Catherine Schlensker 
 * Robert Cox
@@ -82,4 +79,5 @@
 * Jonathan Musso
 * Nicole De La Rosa
 * Mike Keathley
->>>>>>> 6b8a5eeb4ed3b3a0956bd42669166859a7f6791d
+* Joshua Arnold
+
