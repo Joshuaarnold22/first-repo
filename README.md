@@ -1,4 +1,3 @@
-* Joshua Arnold
 * Igor Eydman
 * Catherine Schlensker 
 * Robert Cox
@@ -80,3 +79,4 @@
 * Jonathan Musso
 * Nicole De La Rosa
 * Mike Keathley
+* Joshua Arnold
